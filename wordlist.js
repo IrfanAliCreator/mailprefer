@@ -99998,7 +99998,4 @@
   "unmoving",
   "manuilsky",
   "spignet",
-  "witman",
-];
-
-export default wordList;
+  "witma"],

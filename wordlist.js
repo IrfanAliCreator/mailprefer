@@ -1,5 +1,5 @@
-const wordList = [
-  "pewage",
+
+  const wordList = ["pewage",
   "clamav",
   "mooned",
   "damoisel",
